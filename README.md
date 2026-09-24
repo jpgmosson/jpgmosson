@@ -14,11 +14,16 @@
 ### 🔭 Em que estou trabalhando
 
 - 🧬 Pesquisa PIBIC: implementação do zero de um classificador **CBA** (Classification Based on Associations) e desenvolvimento de uma extensão própria, o **CBA-QS**.
-- 🎓 Disciplinas de Estruturas de Dados, Qualidade de Software e Testes de Software.
+- 🎓 Disciplinas de Estruturas de Dados, Qualidade de Software ,Testes de Software, IHC e Ética.
 
 ### 🛠️ Tecnologias
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
